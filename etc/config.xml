@@ -28,7 +28,7 @@
                 <private_key>6LeIxAcTAAAAAGG-vFI1TnRWxMZNFuojJ4WifJWe</private_key>
             </general>    
             <backend>
-                <enabled>1</enabled>
+                <enabled>0</enabled>
                 <size>normal</size>
                 <theme>light</theme>
             </backend>
